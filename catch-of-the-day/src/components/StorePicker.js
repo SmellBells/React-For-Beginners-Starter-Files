@@ -23,4 +23,4 @@ class StorePicker extends Component {
   }
 }
 
-export default StorePicker;
+export default StorePicker; 
